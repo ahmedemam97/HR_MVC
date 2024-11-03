@@ -1,0 +1,13 @@
+﻿.empDropdowns{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.empDropdowns div{
+
+}
+
+.searchInput {
+    margin: 10px 0;
+    width: 25% !important;
+}
